@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+	background-color: lightgray;
+}
+
+.navbar {
+	color: white;
+}
+
+.navbar h1 {
+	padding-left: 10px;
+	margin-left: 10px;
+	float: left;
+}
+
+.navbar .logo {
+	float: left;
+	margin: 5px 10px 5px 25px;
+	height: 80px;
+	width: 60px;
+}
+
+.trash {
+	position: relative;
+	bottom: 1em;
+	float: right;
+}
